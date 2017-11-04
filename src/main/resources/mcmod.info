@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "simplecomplexitymod",
+  "name": "Simple Complexity",
+  "description": "A mod about having progrssional complexity with simplicity layered within.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["superspeeder101"],
+  "credits": "superspeeder101",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
